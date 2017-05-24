@@ -1,0 +1,59 @@
+/*
+    font
+    info:
+    family - Helvetica, Arial, sans-serif
+    line-height - 1.6
+
+
+    color:
+    lightgray - #eee
+    gray - #dddddd
+    yellow - #ffd24a
+    orange - #ff8523
+    blue - #1fabe5
+    darkblue - #046c97
+*/
+body{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background: white;
+    padding: 20px;
+  }
+
+header {
+  background-color: #ff8523;
+  padding: 15px;
+
+}
+table,td,tr {
+border-collapse: collapse;
+border: 1px solid #1fabe5;
+text-align: center;
+padding: 10px;
+}
+
+img {
+  width: 40%;
+}
+thead {
+  background-color: #1fabe5;
+
+}
+
+a {
+    
+    padding: 4px;
+    border: 1px solid white;
+  }
+}
+
+form {
+  background-color: #dddddd;
+  align-content: center;
+}
+
+.name {
+  border-radius: 4px;
+  background-color: #ff8523;
+}
